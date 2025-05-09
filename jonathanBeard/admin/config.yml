@@ -1,8 +1,8 @@
 backend:
   name: git-gateway
-  branch: main  # or 'master' depending on your repo
+  branch: main  # or 'master' if that's your default branch
 
-media_folder: "jonathanBeard/images/uploads"
+media_folder: "images/uploads"
 public_folder: "/images/uploads"
 
 collections:
@@ -11,6 +11,6 @@ collections:
     files:
       - label: "Homepage"
         name: "homepage"
-        file: "jonathanBeard/index.html"
+        file: "index.html"
         fields:
-          - {label: "Intro Text", name: "body", widget: "markdown"}
+          - { label: "Intro Text", name: "body", widget: "markdown" }
