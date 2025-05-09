@@ -11,6 +11,6 @@ collections:
     files:
       - label: "Homepage"
         name: "homepage"
-        file: "index.html"
+        file: "jonathanBeard/index.html"
         fields:
           - { label: "Intro Text", name: "body", widget: "markdown" }
