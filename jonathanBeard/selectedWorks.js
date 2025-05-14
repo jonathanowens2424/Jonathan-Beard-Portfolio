@@ -21,7 +21,7 @@ fetch("main.json")
             </a>
           </div>
           <div class="col-12 col-md-4 d-none d-md-block text-center">
-            <img src="${song.image}" class="img-thumbnail rounded" alt="..." style="width: 200px; height: 200px; object-fit: cover;">
+            <img src="${song.image}" class="img-thumbnail box-shadow rounded" alt="..." style="width: 200px; height: 200px; object-fit: cover;">
           </div>
         </div>
       </section>`;
