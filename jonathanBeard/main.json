@@ -1,23 +1,23 @@
 [
   {
-    "songName": "Bababooey",
-    "artist": "Loem ipsum dolor",
-    "image": "https://picsum.photos/200",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore",
-    "spotifyLink": "https://picsum.photos/200"
+    "songName": "There Was You",
+    "artist": "Harrison Boe, Henrik",
+    "image": "https://t2.genius.com/unsafe/186x186/https%3A%2F%2Fimages.genius.com%2Ff8a2511ad0499b3fc52d93b25eaea4ad.1000x1000x1.png",
+    "description": "",
+    "spotifyLink": "https://open.spotify.com/track/4GWNfb09wEqf0bjXVp1hvt?si=9149b14558b1450a"
   },
   {
-    "songName": "Howard",
-    "artist": "Lorem ipsum dolor",
-    "image": "https://picsum.photos/200",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore",
-    "spotifyLink": "https://picsum.photos/200"
+    "songName": "Dig My Heels In",
+    "artist": "Faith Alexis",
+    "image": "https://source.boomplaymusic.com/group10/M00/08/30/63b623804b9e476eb69c588672a6806eH3000W3000_464_464.webp",
+    "description": "",
+    "spotifyLink": "https://open.spotify.com/track/7yFWroE13LEUhKxVjqpL2K?si=f7a9a3916aea4378"
   },
   {
-    "songName": "Hank2",
-    "artist": "Lorem ipsum dolor",
-    "image": "https://picsum.photos/200",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore",
-    "spotifyLink": "https://picsum.photos/200"
+    "songName": "Memorium",
+    "artist": "Skyler Mayes",
+    "image": "images/skyler_mayes.webp",
+    "description": "",
+    "spotifyLink": "https://open.spotify.com/track/0iu7a9k2OYyqIsDsmQKSBA?si=2cbfcb54f7c34fb0"
   }
 ]
